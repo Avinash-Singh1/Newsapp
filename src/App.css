@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-color: rgb(153, 200, 238);
+}
+
+.container-fluid
+{
+  background-color: rgb(230, 215, 215);
+}
